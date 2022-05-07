@@ -11,5 +11,7 @@ public class Andrew {
         System.out.println("Today is a great day!");
         System.out.println("Yay!!");
         System.out.println("Thanks for teaching");
+        System.out.println("New code by Nurlan");
+        System.out.println("one more line");
     }
 }
