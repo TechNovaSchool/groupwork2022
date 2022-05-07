@@ -5,6 +5,9 @@ public class Andrew {
         int ten = 10;
         System.out.println("Today is a great day!");
 
+        System.out.println("Hello Hello!");
 
+
+        System.out.println("MY LIne");
     }
 }
